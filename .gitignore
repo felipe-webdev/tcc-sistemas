@@ -1,0 +1,4 @@
+.vscode
+/api/dbconfig.php
+/db/inserts.*
+/db/selects.*
